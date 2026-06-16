@@ -1,18 +1,18 @@
 
 点播源：
 #主用接口
-https://gh-proxy.org/https://raw.githubusercontent.com/shl888/dingyue/main/yingshicang/dianbo/stymei
+https://gh-proxy.org/https://raw.githubusercontent.com/Git-vip8/dingyue/main/yingshicang/dianbo/stymei
 
 #备用接口
-https://ghproxy.net/https://raw.githubusercontent.com/shl888/dingyue/main/yingshicang/dianbo/stymei
+https://ghproxy.net/https://raw.githubusercontent.com/Git-vip8/dingyue/main/yingshicang/dianbo/stymei
 
 
 直播源：
 #主用接口
-https://gh-proxy.org/https://raw.githubusercontent.com/shl888/dingyue/main/yingshicang/zhibo/stymei.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/Git-vip8/dingyue/main/yingshicang/zhibo/stymei.m3u
 
 #备用接口
-https://ghproxy.net/https://raw.githubusercontent.com/shl888/dingyue/main/yingshicang/zhibo/stymei.m3u
+https://ghproxy.net/https://raw.githubusercontent.com/Git-vip8/dingyue/main/yingshicang/zhibo/stymei.m3u
 
 
 备注：
